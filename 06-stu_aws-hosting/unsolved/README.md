@@ -106,7 +106,7 @@ Finally, we can look at automating the scheduling of the ETL job.
 
 1. In the AWS Console, search for "EventBridge". 
 2. Choose the region closest to you on the top-right e.g. Sydney (ap-southeast-2)
-3. Select "Create create" 
+3. Select "Create" 
 4. Configure EventBridge. Note: Unless specified, leave the settings to default. 
     1. Provide a rule name 
     2. Define pattern: "Schedule" 
