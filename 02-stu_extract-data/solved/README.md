@@ -2,6 +2,15 @@
 
 Write a script to extract data from the CSV file and from the OpenWeatherAPI by following the steps below.
 
+### Pre-requisites 
+
+Install the following libraries: 
+
+```
+pip install pandas 
+pip install requests 
+```
+
 ### Step 1: Extract from CSV file 
 
 Read the list of cities from the CSV file into a Pandas dataframe. 
